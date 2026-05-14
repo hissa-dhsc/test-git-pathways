@@ -1,5 +1,5 @@
 
-# R Project Template
+# Project Template
 
 GitHub template for R-based projects within the DHSC.
 
